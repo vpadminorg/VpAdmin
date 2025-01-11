@@ -2,11 +2,7 @@
 
 Looking to bring your website ideas to life without the technical complexity? VpAdmin is your one-stop free solution. VpAdmin simplifies website creation and management, whether you need a sleek static site or a dynamic web application. With seamless support for markdown-powered websites and the flexibility to integrate dynamic features, VpAdmin empowers users of all skill levels to turn their vision into reality.
 
-<div class="tip custom-block" style="padding-top: 8px">
-
-Just want to try it out? Skip to the [Quickstart](https://www.vpadmin.org/getting-started).
-
-</div>
+Just want to try it out? Skip to the <a href="https://www.vpadmin.org/getting-started" target="_blank">Quickstart</a>.
 
 ## Key Capabilities:
 
