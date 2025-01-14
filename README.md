@@ -4,6 +4,13 @@ Looking to bring your website ideas to life without the technical complexity? Vp
 
 Just want to try it out? Skip to the <a href="https://www.vpadmin.org/guide/getting-started" target="_blank">Quickstart</a>.
 
+<h1 align="center">
+    <a href="https://github.com/fiwalld/Fiwalld">
+        <img alt="Logo" src="https://github.com/vpadminorg/VpAdmin/blob/main/AddNewSite_2.gif" width="800">
+    </a>
+    <br>
+</h1>
+
 ## Key Capabilities:
 
 - **Flexible Deployment:** Easily deploy static and dynamic websites built with markdown content. Transform your ideas into a live website in no time.
